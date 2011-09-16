@@ -1,3 +1,5 @@
+This is an empty gem.
+
 Why?
 ====
 

@@ -6,5 +6,5 @@ Gem::Specification.new do |s|
   s.summary     = "Like selenium-webdriver, but empty."
   
   s.files         = `git ls-files`.split("\n")
-  s.require_paths = []
+  s.require_paths = ["lib"]
 end
